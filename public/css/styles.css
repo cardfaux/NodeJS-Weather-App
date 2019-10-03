@@ -38,7 +38,7 @@ header a {
 }
 
 .portrait {
-    width: 250px;
+    width: 1000px;
 }
 
 input {
@@ -52,4 +52,8 @@ button {
     background: #888888;
     color: white;
     padding: 8px;
+}
+
+p {
+  font-size: 1rem;
 }
